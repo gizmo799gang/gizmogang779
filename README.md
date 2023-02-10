@@ -19,7 +19,7 @@
 
 ### About me
 - 🌱 I’m currently learning **HTML, CSS**
-- 📫 Reach me by [Telegram](https://t.me/alihankd), [email](mailto:kd.kd.kd.767.767.767@gmail.com)
+- 📫 Reach me by [Telegram](https://t.me/Blackbon_729)
 - 🌍 I speak Russian, English
 
 ---
