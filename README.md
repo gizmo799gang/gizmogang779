@@ -12,7 +12,7 @@
 
 
 <div id="socials" align="center" >
- <a href="https://t.me/Blackbon_729>
+ <a href="https://t.me/Blackbon_729">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
   </div>
