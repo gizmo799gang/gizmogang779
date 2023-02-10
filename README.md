@@ -9,14 +9,10 @@
  <h3>Novice web developer from Tashkent</h3>
  
 
-<div id="socials" align="center" >
-    <a href="https://www.linkedin.com/in/a-kd-669700265">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</div>
+
 
 <div id="socials" align="center" >
- <a href="https://t.me/alihankd">
+ <a href="https://t.me/Blackbon_729>
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
   </div>
