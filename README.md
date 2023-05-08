@@ -20,12 +20,12 @@
 ### About me
 - 🌱 I’m currently learning **HTML, CSS**
 - 📫 Reach me by [Telegram](https://t.me/Blackbon_729)
-- 🌍 I speak Russian, English
+- 🌍 I speak Russian, English,deutch
 
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KD-767&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KD-767&theme=dark&background=2933784)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KD-767&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
